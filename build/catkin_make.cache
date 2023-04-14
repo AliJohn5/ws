@@ -1,0 +1,2 @@
+
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=C:\arms\ws\devel -DCMAKE_INSTALL_PREFIX=C:\arms\ws\install -G Ninja
